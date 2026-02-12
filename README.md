@@ -31,6 +31,4 @@ This project features an interactive **Power BI dashboard** designed to analyze 
 
 
 
-This Power BI project provides a comprehensive analysis of Pamgolet’s sales and profitability, identifying a massive surge in gross sales where 2014 contributed **77.67%** of the total revenue. The data highlights **Paseo** as the flagship product, leading revenue at **$33M**. While profit fluctuated throughout the year, the analysis uncovered a peak performance in **Q4** with **$7.5M** in profit and a strong close in December with **$17.37M** in sales. These findings support strategic recommendations to capitalize on year-end momentum and prioritize high-revenue products like Paseo and VTT to maintain growth.
 
-**Would you like me to help you create a "Getting Started" section that explains how someone can open the `.pbix` file once they clone your repository?**
